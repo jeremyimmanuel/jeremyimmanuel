@@ -2,7 +2,7 @@
 
 # 👋 Welcome to my github page!
 
-Honestly I don't what to put here. 
+Honestly I don't know what to put here. 
 
 ## ❤️ All time fav languages/frameworks 
 - [Vue.js](https://v3.vuejs.org/)
