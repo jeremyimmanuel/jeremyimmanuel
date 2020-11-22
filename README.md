@@ -2,7 +2,7 @@
 
 ![obi wan hello there](https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif?itemid=13903117)
 
-Welcome to my github page! Honestly, I don't know what to put here.
+# 👋 Welcome to my github page!
 
 <!--
 **jeremyimmanuel/jeremyimmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
