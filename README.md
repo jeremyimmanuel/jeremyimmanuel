@@ -4,7 +4,12 @@
 
 Honestly I don't what to put here. 
 
-## ❤️ All time fav frameworks 
-- Vue.js
-- SwiftUI
-- Python
+## ❤️ All time fav languages/frameworks 
+- [Vue.js](https://v3.vuejs.org/)
+- [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- [Python](https://www.python.org/)
+
+## About me
+
+If you made it this far, you probably don't mind if I tell you fun facts about me.
+I grew up in [Surabaya, Indonesia](https://en.wikipedia.org/wiki/Surabaya), but now I live in Seattle, WA. 
