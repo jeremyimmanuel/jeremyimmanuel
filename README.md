@@ -9,6 +9,11 @@ Honestly I don't know what to put here.
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - [Python](https://www.python.org/)
 
+## Deployed projects
+
+- [Emoji copier](http://emojiclip.dev.s3-website-us-west-1.amazonaws.com/)
+- [Dexter todo list](https://play.google.com/store/apps/details?id=com.jeremyimmanuel.dexter) (Used to have an app store version too)
+
 ## About me
 
 If you made it this far, you probably don't mind if I tell you fun facts about me.
